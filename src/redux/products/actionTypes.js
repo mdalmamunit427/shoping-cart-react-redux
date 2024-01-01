@@ -1,0 +1,4 @@
+export const ADD_PRODUCT =  "ADD_PRODUCT";
+export const ADD_QUANTITY =  "ADD_QUANTITY";
+export const REMOVE_QUANTITY =  "REMOVE_QUANTITY";
+export const FILTERBYCATEGORY = 'FILTER_BY_CATEGORY';
